@@ -68,7 +68,7 @@ button{
     padding: 1%;
 }
 
-.border{
+.border_check{
     border:1px solid green;
     border-radius: 50%;
     text-decoration: none;
@@ -76,10 +76,17 @@ button{
     color: green;
 }
 
+.border_cross{
+    border:1px solid red;
+    border-radius: 50%;
+    text-decoration: none;
+    background-color: white;
+    color: red; 
+}
+
 .colore{
     display: inline-block;
     padding: 10px;
-    background-color: blue;
     border-radius: 30px;
     color: white;
     font-size: 0.8em;
@@ -91,4 +98,22 @@ button{
 
 .margin_bottom{
     margin-bottom: 10px;
+}
+
+/* colori */
+
+.blue{
+    background-color: blue;
+}
+
+.violet{
+    background-color: violet;
+}
+
+.green{
+    background-color: green;
+}
+
+.orange{
+    background-color: orange;
 }
