@@ -69,15 +69,26 @@ button{
 }
 
 .border{
+    border:1px solid green;
     border-radius: 50%;
-    width: 10px;
-    height: 10px;
+    text-decoration: none;
+    background-color: white;
+    color: green;
 }
 
 .colore{
     display: inline-block;
     padding: 10px;
     background-color: blue;
-    border-radius: 20px;
+    border-radius: 30px;
     color: white;
+    font-size: 0.8em;
+}
+
+.font_size{
+    font-size: 1.3em;
+}
+
+.margin_bottom{
+    margin-bottom: 10px;
 }
