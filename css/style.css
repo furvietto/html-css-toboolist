@@ -23,3 +23,31 @@ header > div {
 div img {
     vertical-align: top;
 }
+
+/* main */
+
+.container {
+    width: 70%;
+    background-color: red;
+    margin: 2em auto;
+    border-radius: 5px;
+    padding: 1%;
+}
+
+button{
+    padding: 6px;
+    border-radius: 5px;
+}
+
+main  div{
+    margin-left: 30px;
+}
+
+#add_task{
+    background-color: #47adf1;
+    color: white;
+}
+
+#add_section{
+    color:rgba(201,207,211,255); 
+}
