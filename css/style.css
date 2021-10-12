@@ -29,7 +29,7 @@ div img {
 .container {
     width: 70%;
     background-color: red;
-    margin: 2em auto;
+    margin: 2em auto 0px;
     border-radius: 5px;
     padding: 1%;
 }
@@ -43,6 +43,8 @@ main  div{
     margin-left: 30px;
 }
 
+/* button */
+
 #add_task{
     background-color: #47adf1;
     color: white;
@@ -50,4 +52,17 @@ main  div{
 
 #add_section{
     color:rgba(201,207,211,255); 
+}
+
+/* 2ndcontainer */
+.container2{
+    width: 70%;
+    background-color: red;
+    margin: 1px auto;
+    border-radius: 5px;
+    padding: 1%;
+}
+
+#margin_top{
+    margin-top: 20px;
 }
