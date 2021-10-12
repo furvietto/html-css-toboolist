@@ -28,7 +28,7 @@ div img {
 
 .container {
     width: 70%;
-    background-color: red;
+    background-color: white;
     margin: 2em auto 0px;
     border-radius: 5px;
     padding: 1%;
@@ -62,10 +62,10 @@ button{
 /* 2ndcontainer */
 .container2{
     width: 70%;
-    background-color: red;
     margin: 1px auto;
     border-radius: 5px;
     padding: 1%;
+    background-color: white;
 }
 
 .border_check{
